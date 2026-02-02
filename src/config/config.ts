@@ -7,10 +7,10 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Soumili Rakshit',
-    title: 'Student at Christ University | Economics and Data Science',
-    image: getAsset('images/profile.png'), // Customize or replace with your profile image
+    title: 'Student at Christ University, BRC | Economics and Data Science',
+    image: getAsset('images/profile.jpg'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am a first-year undergraduate student at Christ University, Bangalore, pursuing a degree in Economics and Data Science.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
@@ -20,6 +20,7 @@ const siteConfig = {
     tagline: 'Add a concise personal tagline here.',
     location: 'Your City, Country',
   },
+
 
   seo: {
     title: 'Your Name – Your Title',
