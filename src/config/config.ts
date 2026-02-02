@@ -14,7 +14,7 @@ const siteConfig = {
       '\n' +
       'I am passionate about data analysis and research in the field of economics and public policy\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I have completed multiple internships in the field of Research and Human Resources.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
@@ -27,7 +27,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Student', 'Research', 'Data Analysis', 'Builder'],
 
   navigation: [
     { name: 'Home', url: '/' },
